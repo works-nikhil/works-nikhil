@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Bhojwani ( @works-nikhil )
 - 👀 I’m interested in building web apps
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on projects that's going to provide/seek opportunities to/from the dev communities.
 - 📫 Reach me at works.nikhil@gmail.com
 
