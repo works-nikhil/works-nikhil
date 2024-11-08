@@ -4,7 +4,7 @@
 
 - 2+ years in Software Development Engineer (SDE) at AppRely Technologies LLP, Pune, India
 - 1.8 years as a Software Quality Analyst at Cognizant Technology Solutions India Pvt. Ltd
-- Leading Frontend Team at BioFuelCircle Pvt. Ltd.
+- Leading Frontend Team at BiofuelCircle Pvt. Ltd.
 - Specializing in dynamic and responsive web applications using React.js and React Native
 
 ## Interests
