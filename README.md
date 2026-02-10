@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 5+ years in Software Development Engineer (SDE)
+- 5+ years in Software Development
 - Leading Frontend Team at BiofuelCircle Pvt. Ltd.
 - Specializing in dynamic and responsive web applications using React.js and React Native
 
