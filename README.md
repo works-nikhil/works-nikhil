@@ -1,5 +1,7 @@
 # Hi there, I'm Nikhil Bhojwani 👋
 
+![](https://komarev.com/ghpvc/?username=works-nikhil)
+
 ## About Me
 
 - 5+ years in Software Development
